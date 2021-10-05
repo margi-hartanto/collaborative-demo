@@ -1,1 +1,3 @@
-by by function
+def multiplication(x, y):
+  
+  return(x * y)
