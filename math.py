@@ -1,2 +1,3 @@
 def multiplication(x, y):
-	return x / y
+	"" some function that multiplies x and y""
+	return x * y
